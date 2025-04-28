@@ -14,10 +14,10 @@ eTour is a modern web platform built with **React** and **Node.js**, designed fo
 ## 🛠 Tech Stack
 
 - **Frontend:** React, React Router, TailwindCSS / Bootstrap
-- **Backend:** Node.js, Express
-- **Database:** MongoDB / PostgreSQL
-- **Authentication:** JWT
-- **Hosting:** Vercel / Netlify (Frontend), Render / Heroku (Backend)
+- **Backend:** Node.js, Express (needs to be done)
+- **Database:** MongoDB / PostgreSQL (needs to be done)
+- **Authentication:** JWT (needs to be done)
+- **Hosting:**  Netlify (Frontend)
 
 ## 🚀 Getting Started
 
